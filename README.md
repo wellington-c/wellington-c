@@ -44,10 +44,10 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 
 <p align="center">
   <a href="https://wellington-c.github.io/site_gta/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonca9&repo=site_gta&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777" alt="Projeto Site GTA" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellington-c&repo=site_gta&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site GTA" />
   </a>
   <a href="https://wellington-c.github.io/site_teste/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonca9&repo=site_teste&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777" alt="Projeto Site Teste" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellington-c&repo=site_teste&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site Teste" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wellington-c&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title-color=0066CC" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wellington-c&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title-color=0066CC&v=1" alt="Trophies" />
   </a>
 </p>
 
@@ -66,12 +66,12 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wellington-c&show_icons=true&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777" alt="Estatísticas do Wellington" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-c&layout=compact&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777" alt="Top Linguagens" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wellington-c&show_icons=true&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Estatísticas do Wellington" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-c&layout=compact&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Top Linguagens" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wellington-c&theme=transparent&hide_border=true&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&sideLabels=777777&dates=777777&statIncludes=777777&currStreakNum=777777&sideNums=777777" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wellington-c&theme=transparent&hide_border=true&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&sideLabels=777777&dates=777777&statIncludes=777777&currStreakNum=777777&sideNums=777777&v=1" alt="GitHub Streak" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellington-c&bg_color=transparent&color=777777&line=0066CC&point=0066CC&area=true&hide_border=true" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellington-c&bg_color=transparent&color=777777&line=0066CC&point=0066CC&area=true&hide_border=true&v=1" alt="Gráfico de Atividade" />
 </p>
 
 ---
@@ -97,7 +97,8 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 ---
 
 <p align="center">
-  <i>⭐️ Feito com dedicação por <b>Wellington Camargo</b> - <a href="https://www.linkedin.com/in/wmsistemas">WM Sistemas</a></i>
+  <i>⭐️ Feito com dedicação por <b>Wellington Camargo</b> - <a href="https://www.linkedin.com/in/wmsistemas">WM Sistemas</a></i><br>
+  <i>© WM Sistemas — Todos os direitos reservados — Criado por WM Sistemas</i>
 </p>
 
 </div>
