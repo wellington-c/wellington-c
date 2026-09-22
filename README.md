@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Sobre mim
 
-🎓 **Licenciado em Computação** | 💻 **Desenvolvedor** | 🏢 **Fundador da WM Sistemas**
+🎓 **Licenciado em Computação** | 💻 **Desenvolvedor Full Stack** | 🏢 **Fundador da WM Sistemas**
 
 Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. Busco sempre criar soluções eficientes e inovadoras que gerem impacto real.
 
@@ -44,10 +44,10 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 
 <p align="center">
   <a href="https://wellington-c.github.io/site_gta/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellington-c&repo=site_gta&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site GTA" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wellington-c&repo=site_gta&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site GTA" />
   </a>
   <a href="https://wellington-c.github.io/site_teste/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellington-c&repo=site_teste&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site Teste" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wellington-c&repo=site_teste&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site Teste" />
   </a>
 </p>
 
@@ -66,8 +66,8 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wellington-c&show_icons=true&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Estatísticas do Wellington" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-c&layout=compact&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Top Linguagens" height="195"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=wellington-c&show_icons=true&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Estatísticas do Wellington" height="195"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wellington-c&layout=compact&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Top Linguagens" height="195"/>
 </p>
 
 <p align="center">
