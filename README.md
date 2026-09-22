@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Sobre mim
 
-🎓 **Licenciado em Computação** | 💻 **Desenvolvedor Full Stack** | 🏢 **Fundador da WM Sistemas**
+🎓 **Licenciado em Computação** | 💻 **Desenvolvedor** | 🏢 **Fundador da WM Sistemas**
 
 Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. Busco sempre criar soluções eficientes e inovadoras que gerem impacto real.
 
