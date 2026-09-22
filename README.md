@@ -43,10 +43,10 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 ### 🚀 Projetos e Trabalhos
 
 <p align="center">
-  <a href="https://wellingtonca9.github.io/site_gta/">
+  <a href="https://wellington-c.github.io/site_gta/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonca9&repo=site_gta&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777" alt="Projeto Site GTA" />
   </a>
-  <a href="https://wellingtonca9.github.io/site_teste/">
+  <a href="https://wellington-c.github.io/site_teste/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonca9&repo=site_teste&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777" alt="Projeto Site Teste" />
   </a>
 </p>
