@@ -2,7 +2,7 @@
 
 <!-- Banner / Typing Animation -->
 <a href="https://github.com/wellington-c">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Eu+sou+Wellington+Camargo+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Licenciado+em+Computa%C3%A7%C3%A3o;Fundador+da+WM+Sistemas" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Eu+sou+Wellington+Camargo+%F0%9F%91%8B;Desenvolvedor;Professor+de+Computa%C3%A7%C3%A3o;Fundador+da+WM+Sistemas" alt="Typing Animation" />
 </a>
 
 <!-- Redes Sociais -->
@@ -13,7 +13,7 @@
   <a href="https://instagram.com/wmsistemas" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-0066CC?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:wmsisstemas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-0066CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -34,8 +34,6 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ---
@@ -44,10 +42,10 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 
 <p align="center">
   <a href="https://wellington-c.github.io/site_gta/">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wellington-c&repo=site_gta&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site GTA" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wellington-c&repo=site_gta&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto GTA" />
   </a>
   <a href="https://wellington-c.github.io/site_teste/">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wellington-c&repo=site_teste&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site Teste" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=wellington-c&repo=site_teste&theme=transparent&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=777777&v=1" alt="Projeto Site" />
   </a>
 </p>
 
@@ -57,7 +55,7 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wellington-c&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title-color=0066CC&v=1" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wellington-c&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title-color=0066CC&v=2" alt="Trophies" />
   </a>
 </p>
 
@@ -79,7 +77,7 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellington-c&bg_color=transparent&color=777777&line=0066CC&point=0066CC&area=true&hide_border=true&v=1" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellington-c&bg_color=transparent&color=777777&line=0066CC&point=0066CC&area=true&hide_border=true&v=2" alt="Gráfico de Atividade" />
 </p>
 
 ---
