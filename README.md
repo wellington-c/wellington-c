@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/wmconecta" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/wmconecta.tech" target="_blank">
+  <a href="https://instagram.com/wmconecta" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-003366?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:wmconecta.tech@gmail.com" target="_blank">
+  <a href="mailto:wmconecta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-003366?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 🎓 **Licenciado em Computação** | 💻 **Desenvolvedor Sênior** | 🏢 **Fundador da WM Conecta**
 
-Especialista em criar automações hiperintuitivas e softwares sob medida para micro e pequenos negócios. O meu foco é traduzir lógicas complexas de programação em interfaces absurdamente fáceis de usar no telemóvel, ajudando empresas a conectarem processos e vendas sem complicação.
+Apaixonado por tecnologia e focado em mostrar como ela pode transformar as nossas vidas. Automatizo tarefas repetitivas e crio softwares sob medida para micro e pequenos negócios. O meu objetivo é traduzir lógicas complexas em interfaces absurdamente fáceis de usar, conectando processos e vendas sem complicação. O resultado? Mais tempo livre para as pessoas focarem em tudo aquilo que realmente importa.
 
 ---
 
@@ -34,14 +34,9 @@ Especialista em criar automações hiperintuitivas e softwares sob medida para m
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
@@ -101,7 +96,7 @@ Especialista em criar automações hiperintuitivas e softwares sob medida para m
 
 <p align="center">
   <i>⭐️ Feito com dedicação por <b>Wellington Camargo</b></i><br>
-  <i>© WM Conecta — Todos os direitos reservados — Criado por WM Conecta</i>
+  <i>© WM Conecta — Todos os direitos reservados</i>
 </p>
 
 </div>
