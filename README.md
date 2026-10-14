@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/wmconecta" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/wmconecta" target="_blank">
+  <a href="https://instagram.com/wm_conecta" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-003366?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:wmconecta@gmail.com" target="_blank">
@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Sobre mim
 
-🎓 **Licenciado em Computação** | 💻 **Desenvolvedor Sênior** | 🏢 **Fundador da WM Conecta**
+🎓 **Professor de Computação** | 💻 **Desenvolvedor** | 🏢 **Fundador da WM Conecta**
 
 Apaixonado por tecnologia e focado em mostrar como ela pode transformar as nossas vidas. Automatizo tarefas repetitivas e crio softwares sob medida para micro e pequenos negócios. O meu objetivo é traduzir lógicas complexas em interfaces absurdamente fáceis de usar, conectando processos e vendas sem complicação. O resultado? Mais tempo livre para as pessoas focarem em tudo aquilo que realmente importa.
 
@@ -55,13 +55,7 @@ Apaixonado por tecnologia e focado em mostrar como ela pode transformar as nossa
 
 ---
 
-### 🏆 Trophys & Estatísticas
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wellington-c&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title-color=003366&v=1" alt="Trophies" />
-  </a>
-</p>
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=wellington-c&show_icons=true&theme=transparent&hide_border=true&title_color=003366&icon_color=003366&text_color=777777&v=1" alt="Estatísticas do Wellington" height="195"/>
@@ -70,14 +64,6 @@ Apaixonado por tecnologia e focado em mostrar como ela pode transformar as nossa
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=wellington-c&theme=transparent&hide_border=true&ring=003366&fire=003366&currStreakLabel=003366&sideLabels=777777&dates=777777&statIncludes=777777&currStreakNum=777777&sideNums=777777&v=1" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellington-c&bg_color=transparent&color=777777&line=003366&point=003366&area=true&hide_border=true&v=1" alt="Gráfico de Atividade" />
 </p>
 
 ---
